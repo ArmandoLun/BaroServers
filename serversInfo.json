@@ -1,0 +1,14 @@
+{
+    "carpetas": [
+      {
+        "nombre": "ServerBasico",
+        "archivos": [
+          "bannedplayers.xml",
+          "serversettings.xml",
+          "clientpermissions.xml",
+          "ConCesar.save",
+          "ConCesar_CharacterData.xml"
+        ]
+      }
+    ]
+  }
