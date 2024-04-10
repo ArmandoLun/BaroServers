@@ -9,6 +9,16 @@
           "ConCesar.save",
           "ConCesar_CharacterData.xml"
         ]
+      },
+      {
+        "nombre": "ServerConMods",
+        "archivos": [
+          "bannedplayers.xml",
+          "serversettings.xml",
+          "clientpermissions.xml",
+          "ServerModeado.save",
+          "ServerModeado_CharacterData.xml"
+        ]
       }
     ]
   }
