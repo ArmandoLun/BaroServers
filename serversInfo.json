@@ -1,24 +1,21 @@
 {
-    "carpetas": [
-      {
-        "nombre": "ServerBasico",
-        "archivos": [
-          "bannedplayers.xml",
-          "serversettings.xml",
-          "clientpermissions.xml",
-          "ConCesar.save",
-          "ConCesar_CharacterData.xml"
-        ]
-      },
-      {
-        "nombre": "ServerConMods",
-        "archivos": [
-          "bannedplayers.xml",
-          "serversettings.xml",
-          "clientpermissions.xml",
-          "ServerModeado.save",
-          "ServerModeado_CharacterData.xml"
-        ]
-      }
-    ]
-  }
+  "carpetas": [
+    {
+      "Nombre": "ServerBasico",
+      "BannedPlayers": "bannedplayers.xml",
+      "ServerSettings": "serversettings.xml",
+      "ClientPermissions": "clientpermissions.xml",
+      "ServerName":"ConCesar.save",
+      "ServerCharacterData":"ConCesar_CharacterData.xml"
+    },
+    {
+      "Nombre": "ServerConMods",
+      "BannedPlayers": "bannedplayers.xml",
+      "ServerSettings": "serversettings.xml",
+      "ClientPermissions": "clientpermissions.xml",
+      "ServerName":"ServerModeado.save",
+      "ServerCharacterData":"ServerModeado_CharacterData.xml"
+      
+    }
+  ]
+}
